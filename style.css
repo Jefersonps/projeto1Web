@@ -1,0 +1,111 @@
+*{
+    margin: 10px;;
+    padding:0;
+    box-sizing: border-box;
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width:1200px;
+    padding:0 2%;
+}
+.logo{
+    width: 60%;
+}
+.menu{ 
+    width: 35%;
+    text-align: right;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+}
+.menu a{
+   color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+    
+    font-size: 16px;
+}
+.Telefones-básicos{
+    width: 100%;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+}
+.celular h3{spacing
+    line-height: 1.25;
+    font-size: 1.5rem;
+    letter-: 0;
+    font-weight: 700;
+    font-family: Nokia, Arial,Helvetica,sans-serif;
+    font-size: 24px;
+}
+
+.celular h4{
+    color:black;
+    line-height: 1.25;
+    font-size: 1.5rem;
+    letter-spacing: 0;
+    font-weight: 700;
+    font-family: Nokia, Arial,Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.logo{
+    box-sizing: border-box;
+    color:rgb(18, 65, 145);
+    cursor: pointer;
+    display: block;
+    fill: rgb(18, 65, 145);
+    font-family: Nokia, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 30px;
+    line-height: 30px;
+    pointer-events: auto;
+}
+.menu2{
+    
+    width: 40%;
+    text-align: left;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    margin: 80px;;
+    padding:0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+.menu2 a{
+    color: black;
+    
+    width: 100%;
+    
+}
+.menu3{
+    
+    width: 65%;
+    text-align: right;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    margin: -150px;;
+    padding:0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+
+}
+.menu3 a{
+    color: black;
+}
+.menu4{
+    width: 110%;
+    text-align: right;
+    font-family: Nokia,Arial,Helvetica,sans-serif;
+    margin: -230px;;
+    padding:0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+.menu4 a{
+    color: black;
+}
+.menu5{
+    text-align: left;
+    margin: 400px;
+}
+.menu5 a{
+    
+}
